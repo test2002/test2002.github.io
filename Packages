@@ -1,0 +1,11 @@
+Package: com.test2002.tweak
+Version: 1.0
+Section: tweaks
+Maintainer: test2002
+Architecture: iphoneos-arm
+Filename: ./com.test2002.tweak_1.0_iphoneos-arm.deb
+Size: 534
+MD5sum: 42664bcee00c66d5e65a233f4e84439a
+Description: tweak
+Name: tweak
+
